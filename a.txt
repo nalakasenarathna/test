@@ -3,7 +3,4 @@ hello
 
 hi
 
-people
-
-
-wbn
+p
